@@ -20,6 +20,7 @@
 
 <img src="https://github.com/Spidy20/Fake_News_Detection/blob/master/s1.PNG">
 <img src="https://github.com/Spidy20/Fake_News_Detection/blob/master/s2.PNG">
+![image](https://user-images.githubusercontent.com/54875003/177013627-847fb289-2ecd-4d3e-8b53-1d2d9ba45a15.png)
 
 ## Note
 - This project is just for learning purpose, don't think, it can do work in real time, because model was trained on historic & limited data.
